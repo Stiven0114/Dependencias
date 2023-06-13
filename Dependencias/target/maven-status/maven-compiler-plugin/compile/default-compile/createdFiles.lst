@@ -1,0 +1,4 @@
+com\credibanco\Dependencias\DependenciasApplication.class
+com\credibanco\Dependencias\dto\UsuarioDTORequest.class
+com\credibanco\Dependencias\http\SHttpService.class
+com\credibanco\Dependencias\dto\UsuarioDTOResponse.class
